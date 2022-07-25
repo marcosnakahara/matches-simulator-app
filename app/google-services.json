@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189961807873",
+    "project_id": "matches-simulator-8a37a",
+    "storage_bucket": "matches-simulator-8a37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189961807873:android:f69b5c098decde11f53800",
+        "android_client_info": {
+          "package_name": "me.dio.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189961807873-v33e15re6flt3hc4dc5h0i3fanvnmtsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0ELQiJhQ2Vh36WzOPqCpvdImRlyzJKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189961807873-v33e15re6flt3hc4dc5h0i3fanvnmtsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
